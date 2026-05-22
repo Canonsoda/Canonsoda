@@ -68,7 +68,7 @@
 ### 🏆 Codeforces
 
 - 🟦 **Pupil** on Codeforces
-- Solved 180+ problems, actively targeting **Specialist**
+- Solved 500+ problems on Leetcode
 
 ---
 
